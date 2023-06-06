@@ -4,7 +4,9 @@ Table of Contents
 1. [Non-functional requirements](#non-functional-requirements)
     * [Security](#security)
     * [Reliability](#reliability)
-    * [Input / Output stack](#inputoutput-stack)
+    * [Compute](#reliability)
+
+2. [Input / Output stack](#inputoutput-stack)
 
 ### Non-functional requirements
 #### **Security** 
