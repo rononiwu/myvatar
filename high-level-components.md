@@ -2,7 +2,6 @@
 ## High-level design
 Table of Contents
 1. [Functional Requirements](#functional-requirements)
-    * [Personas](#personas)
     * [User Scenarios](#scenarios)
         * [Input](#input)
         * [Output](#output)
@@ -12,17 +11,17 @@ Table of Contents
     * [Data](#data)
 
 ### Functional Requirements
-### Personas
-1. User 1
-2. User 2
-### Scenarios
+    Personas
+     - User 1
+     - User 2
+### User Scenarios
 
-### Input
+### Input Scenario
 1. As User 1, I want to create an avatar.
 2. As User 1, I want device sensors to capture sensory information as I use the system. 
 2. As User 1, I want to record audio in my default language.
 4. As User 1, I want to listen to recordings in my default language
-#### Output
+#### Output Scenario
 1. As User 2, I want to view an avatar belonging to User 1 in its basic form(Without sensory input).
 2. As User 2, I want to view an avatar belonging to User 1 along with sensory information.
 3. As User 2 I want to hear Audio from User 1
